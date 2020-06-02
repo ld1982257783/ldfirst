@@ -1,4 +1,4 @@
-.project
+target/
 .idea
 
 # http://www.gnu.org/software/automake
